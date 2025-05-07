@@ -1,10 +1,10 @@
-# Demo of Flask in Docker
+# Demo of Flask in Docker with Gunicorn
 
 See <https://flask.palletsprojects.com/en/stable/>
 
 To use,
 ```bash
-make container
+make container_build
 make up
 ```
 
